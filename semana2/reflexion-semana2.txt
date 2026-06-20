@@ -1,0 +1,7 @@
+Aprender a usar la terminal es importante porque me permite moverme y organizar archivos de forma rápida y directa,
+sin depender de un mouse. Comandos como pwd me ayudan a saber en qué carpeta estoy ubicado,
+mientras que ls me muestra el contenido sin necesidad de abrir ventanas. Con mkdir puedo crear carpetas y con touch archivos en segundos,
+lo cual agiliza mucho el flujo de trabajo. Además, muchas herramientas de desarrollo, como Git, solo se controlan bien desde la terminal.
+Entender estos comandos también me prepara para trabajar en servidores remotos, donde no hay interfaz gráfica.
+En resumen, la terminal es una habilidad básica pero esencial para cualquier desarrollador, porque da control total y velocidad sobre
+el manejo de archivos y proyectos.
